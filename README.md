@@ -20,7 +20,7 @@ In this notebook, I have created a predictor using simple linear regression. Her
 
 # Clone
 
-***Clone this repo to your local machine using*** **https://github.com/suyashphatak23/COVID-19-Predictor**
+***Clone this repo to your local machine using*** **https://github.com/suyashphatak23/Simple-COVID-19-Predictor**
 
 # Setup
 1. Clone the repository or open the jupyter notebook using *Google Colab* or *Anaconda IDE* or *Local Jupyter Notebook*.
